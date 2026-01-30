@@ -5,3 +5,10 @@ Playing Diece with random number. It works when it is reloaded with browser.
 
 Playing Drum kit with sound
 ![image atl](https://github.com/Le-ArteX/miniProject/blob/720cdcba780d23363f22d755c8b1805054389e4e/DrumKitStartingFiles/images/Screenshot%202026-01-29%20015625.png)
+
+--------------------------------------------------------------------------------------------------------
+
+Play a Simon Game for fun.
+![image atl](https://github.com/Le-ArteX/miniProject/blob/314f3e765e209983a5c2b98b3b353fdf6bb4f57a/SimonGame/Screenshot%202026-01-30%20233524.png)
+
+--------------------------------------------------------------------------------------------------------
