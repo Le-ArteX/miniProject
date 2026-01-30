@@ -12,3 +12,8 @@ Play a Simon Game for fun.
 ![image atl](https://github.com/Le-ArteX/miniProject/blob/314f3e765e209983a5c2b98b3b353fdf6bb4f57a/SimonGame/Screenshot%202026-01-30%20233524.png)
 
 --------------------------------------------------------------------------------------------------------
+
+Generate QR code with URL
+![image alt](https://github.com/Le-ArteX/miniProject/blob/99bd87494233456b8586d5de6f9d5299c7b5b4e3/QRCodeProject/2.4%20QR%20Code%20Project/Screenshot%202026-01-31%20032748.png)
+
+--------------------------------------------------------------------------------------------------------
