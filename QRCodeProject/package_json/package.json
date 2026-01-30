@@ -1,0 +1,26 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "inquirer": "^13.2.2",
+    "qr-image": "^3.2.0"
+  },
+  "name": "web_development",
+  "version": "1.0.0",
+  "description": "Playing Diece with random number. It works when it is reloaded with browser. \r ![image alt](https://github.com/Le-ArteX/miniProject/blob/78d9afa0d283e935a7a69b8e9e96c68a355b9d8d/Diece/images/Screenshot%202026-01-27%20223816.png)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Le-ArteX/miniProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Le-ArteX/miniProject/issues"
+  },
+  "homepage": "https://github.com/Le-ArteX/miniProject#readme"
+}
