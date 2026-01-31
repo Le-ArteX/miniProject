@@ -18,7 +18,7 @@ Generate QR code with URL
 
 --------------------------------------------------------------------------------------------------------
 
-Create losthost:port by using node.js with express.js in secrect project
+Create losthost:port by using node.js with express.js in secret project
 ![image atl](https://github.com/Le-ArteX/miniProject/blob/39df01b172fe6548e4b059519173775d053c2246/Secrets%20Project/public/Screenshot%202026-02-01%20004108.png)
 ![image atl](https://github.com/Le-ArteX/miniProject/blob/39df01b172fe6548e4b059519173775d053c2246/Secrets%20Project/public/Screenshot%202026-02-01%20004117.png)
 ![image atl](https://github.com/Le-ArteX/miniProject/blob/39df01b172fe6548e4b059519173775d053c2246/Secrets%20Project/public/Screenshot%202026-02-01%20004137.png)
