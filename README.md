@@ -25,4 +25,11 @@ Create losthost:port by using node.js with express.js in secret project
 
 --------------------------------------------------------------------------------------------------------
 
+EJS Template (using localhost:port(5000))
+![image atl](https://github.com/Le-ArteX/miniProject/blob/825da2bfae776aa160a0cb4f6aa17dbaf4829f2b/EJS/Screenshot%202026-02-01%20215259.png)
+![image atl](https://github.com/Le-ArteX/miniProject/blob/825da2bfae776aa160a0cb4f6aa17dbaf4829f2b/EJS/Screenshot%202026-02-01%20215319.png)
+
+--------------------------------------------------------------------------------------------------------
+
+
 
