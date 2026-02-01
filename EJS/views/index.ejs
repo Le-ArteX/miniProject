@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EJS tag</title>
+</head>
+<body>
+    <h1><%= title %></h1>
+    <p> Current seconds:
+    <%= seconds %></p>
+
+    <% if(seconds % 2 === 0) { %>
+        <ul>
+        <% items.forEach(function(item) { %>
+            <li><%= item %></li>   
+        <% }); %>
+        </ul>
+    <% } else { %>
+        <p>There is no list items</p>
+    <% } %>
+
+    <p></p><%- htmlContent %>  </p>
+
+    
+</body>
+
+<footer>
+    <p>Copyright &copy; 2026</p>
+</footer>
+
+</html>
