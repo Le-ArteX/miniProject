@@ -31,5 +31,9 @@ EJS Template (using localhost:port(5000))
 
 --------------------------------------------------------------------------------------------------------
 
+Band Generator with name using port 5000; 
+![image atl](https://github.com/Le-ArteX/miniProject/blob/6e0fa3c26cfaf96a7c8161346140c95be671f9c5/BandGeneratorProject/Screenshot%202026-02-02%20230108.png)
+
+--------------------------------------------------------------------------------------------------------
 
 
